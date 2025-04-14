@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+wordcloud
+streamlit
+scikit-learn
+transformers
+torch
+sentence-transformers
+faiss-cpu
